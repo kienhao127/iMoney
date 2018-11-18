@@ -1,4 +1,0 @@
-#Fri Oct 26 16:42:44 ICT 2018
-base.0=/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
