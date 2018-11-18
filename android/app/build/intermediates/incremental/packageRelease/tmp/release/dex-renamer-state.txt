@@ -1,0 +1,4 @@
+#Thu Nov 01 00:15:15 ICT 2018
+base.0=/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

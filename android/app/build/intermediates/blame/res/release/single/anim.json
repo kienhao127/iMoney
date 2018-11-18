@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_down.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_in.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_tooltip_exit.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_slide_up.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/36bd1b3032f87b94a7a02854076f68b7/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.2-native.aar/36bd1b3032f87b94a7a02854076f68b7/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_tooltip_enter.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/catalyst_fade_out.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/04b144edbccfaf3944c9e6d735db3743/res/anim/abc_popup_exit.xml"
+    }
+]

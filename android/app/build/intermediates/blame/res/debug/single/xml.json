@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/lap12260/.gradle/caches/transforms-1/files-1.1/react-native-0.56.0.aar/0b86c3f838ccfe1b3f93e85e398c3541/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/lap12260/Documents/SchoolProject/iMoney/android/app/build/intermediates/res/merged/debug/xml/provider_paths.xml",
+        "source": "/Users/lap12260/Documents/SchoolProject/iMoney/node_modules/react-native-image-crop-picker/android/build/intermediates/packaged_res/debug/xml/provider_paths.xml"
+    }
+]
